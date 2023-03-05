@@ -1,2 +1,2 @@
 # cv-texture-recognition
-Repository of university's leaf detection project
+Repository of university's texture recognition project.
